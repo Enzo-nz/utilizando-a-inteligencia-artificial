@@ -10,11 +10,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "São Paulo!",
-                afirmacao: "São Paulo tem 46,1 milhões de habitantes, sendo o estado mais populoso. "
+                afirmacao: "São Paulo tem 46,1 milhões de habitantes, sendo o estado mais populoso."
             },
             {
-                texto: "Roraima!",
-                afirmacao: "Possui 738.772 habitantes."
+                texto: "Rio de Janeiro!",
+                afirmacao: "Rio de Janeiro um dos estados mais populosos do Brasil."
             }
         ]
     },
@@ -22,51 +22,51 @@ const perguntas = [
         enunciado: "Com isso devido a a má destribuição, em grandes cidades o super lotmento urbano causa sérios problemas?",
         alternativas: [
             {
-                texto: ".",
-                afirmacao: "Conseguiu utilizar a IA para buscar informações úteis."
+                texto: "Problemas sociais e ambientais.",
+                afirmacao: "Grandes centros urbanos sofrem com deslizamentos e problemas sociais, devido a essa má destribuição."
             },
             {
-                texto: "Escreve o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema.",
-                afirmacao: "Sentiu mais facilidade em utilizar seus próprios recursos para escrever seu trabalho."
+                texto: "Alta demanda pela população.",
+                afirmacao: "Com a alta demanda da população os grandes centros urbanos ao suprir essas necessidades a população de mas capital acaba se sobresaindo da classe mais baixa."
             }
         ]
     },
     {
-        enunciado: "Após a elaboração do trabalho escrito, a professora realizou um debate entre a turma para entender como foi realizada a pesquisa e escrita. Nessa conversa também foi levantado um ponto muito importante: como a IA impacta o trabalho do futuro. Nesse debate, como você se posiciona?",
+        enunciado: "Falta de oportunidaes?",
         alternativas: [
             {
-                texto: "Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
-                afirmacao: "Vem impulsionando a inovação na área de IA e luta para abrir novos caminhos profissionais com IA."
+                texto: "A dispariedade nas oportuniades.",
+                afirmacao: "A despariedade de empregos com a falta de oportunidaes para os de classe baixa, empregos de risco lhe são propostos, assim correndo riscos. Já para os de classe mais alta as oportunidades são maiores."
             },
             {
-                texto: "Me preocupo com as pessoas que perderão seus empregos para máquinas e defendem a importância de proteger os trabalhadores.",
-                afirmacao: "Sua preocupação com as pessoas motivou a criar um grupo de estudos entre trabalhadores para discutir meios de utilização de IA de forma ética."
+                texto: "Disputa por empregos.",
+                afirmacao: "Com a disputa por esss empregos, pessoas com menos condições recorrem a empregos de riscos enquanto pessoas com mais oportumidades são empregados com mais facilidade e de mais segurança."
             }
         ]
     },
     {
-        enunciado: "Ao final da discussão, você precisou criar uma imagem no computador que representasse o que pensa sobre IA. E agora?",
+        enunciado: "A procura por mais oportunidades?",
         alternativas: [
             {
-                texto: "Criar uma imagem utilizando uma plataforma de design como o Paint.",
-                afirmacao: "Notou também que muitas pessoas não sabem ainda utilizar as ferramentas tradicionais e decidiu compartilhar seus conhecimentos de design utilizando ferramentas de pintura digital para iniciantes."
+                texto: "Exodo rural.",
+                afirmacao: "O exodo rural a principal saída que eles tem que é a saída do campo para cidade por busca de novas oportunidades."
             },
             {
-                texto: "Criar uma imagem utilizando um gerador de imagem de IA.",
-                afirmacao: "Acelerou o processo de criação de trabalhos utilizando geradores de imagem e agora consegue ensinar pessoas que sentem dificuldades em desenhar manualmente como utilizar também!"
+                texto: "Falta de renda.",
+                afirmacao: "A falta de rende na area rural causa desanimo e preocupaçoes nas pessoas que se obrigam a ir para as cidades em busca de melhores condições!"
             }
         ]
     },
     {
-        enunciado: "Você tem um trabalho em grupo de biologia para entregar na semana seguinte, o andamento do trabalho está um pouco atrasado e uma pessoa do seu grupo decidiu fazer com ajuda da IA. O problema é que o trabalho está totalmente igual ao do chat. O que você faz? ",
+        enunciado: "O que acontece ao não conseguir melhoras na condição de vida",
         alternativas: [
             {
-                texto: "Escrever comandos para o chat é uma forma de contribuir com o trabalho, por isso não é um problema utilizar o texto inteiro.",
-                afirmacao: "Infelizmente passou a utilizar a IA para fazer todas suas tarefas e agora se sente dependente da IA para tudo."
+                texto: "Voltam para o campo.",
+                afirmacao: "As situações pioram que se veem obrigados a voltar para o campo."
             },
             {
-                texto: "O chat pode ser uma tecnologia muito avançada, mas é preciso manter a atenção pois toda máquina erra, por isso revisar o trabalho e contribuir com as perspectivas pessoais é essencial.",
-                afirmacao: "Percebeu que toda IA reproduz orientações baseadas na empresa que programou e muito do que o chat escrevia não refletia o que pensava e por isso sabe que os textos gerados pela IA devem servir como auxílio e não resultado final. "
+                texto: "Ficam na cidade.",
+                afirmacao: "Muitos se sentem obrigados a ficar, pois venderam seus bens para ir a cidade, muitos ficam em situações de extrema pobreza e vivem o mesmo ciclo que antes viviam. "
             }
         ]
     },
