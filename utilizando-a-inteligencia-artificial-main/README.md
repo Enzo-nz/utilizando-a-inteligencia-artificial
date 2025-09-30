@@ -1,1 +1,0 @@
-# utilizando-a-inteligencia-artificial
